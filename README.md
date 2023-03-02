@@ -1,4 +1,4 @@
-# login_and_signup
+# Expense Tracker
 
 A new Flutter project.
 
